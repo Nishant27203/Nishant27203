@@ -1,6 +1,6 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
-<h3 align="center"> Data Engineer</h3>
+<h3 align="center"> Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant27203&label=Profile%20views&color=0e75b6&style=flat" alt="nishant27203" /> </p>
