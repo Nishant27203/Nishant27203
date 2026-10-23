@@ -7,7 +7,10 @@
   </p>
 </div>
 
-👤 About Me
+---
+
+## 👤 About Me
+
 <table>
   <tr>
     <td width="68%" valign="top">
@@ -21,7 +24,10 @@
   </tr>
 </table>
 
-⚙️ Tech Stack
+---
+
+## ⚙️ Tech Stack
+
 <p><strong>Programming & Data</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -60,7 +66,10 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
 
-📊 GitHub Stats & Activity
+---
+
+## 📊 GitHub Stats & Activity
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -76,7 +85,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant27203&bg_color=0B1220&color=C9D1D9&line=38BDF8&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity" width="100%" />
 </p>
 
-🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
+
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -103,10 +115,15 @@
   </tr>
 </table>
 
-🔎 More Projects
-- Job Skill Gap Analyzer — analyzes job descriptions, surfaces in-demand skills, and compares required skills with a candidate profile.
-- Enterprise IT Help Desk & Ticket Management System — ticket tracking, SLA monitoring, dashboards, user management, and knowledge-base features.
-🏆 Achievements & Mindset
+### 🔎 More Projects
+
+- **[Job Skill Gap Analyzer](https://github.com/Nishant27203/job-skill-gap-analyzer)** — analyzes job descriptions, surfaces in-demand skills, and compares required skills with a candidate profile.
+- **[Enterprise IT Help Desk & Ticket Management System](https://github.com/Nishant27203/enterprise-it-helpdesk-system)** — ticket tracking, SLA monitoring, dashboards, user management, and knowledge-base features.
+
+---
+
+## 🏆 Achievements & Mindset
+
 <p>
   <img src="https://img.shields.io/badge/BUILD-Practical%20Projects-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Build practical projects" />
   <img src="https://img.shields.io/badge/LEARN-Every%20Day-A78BFA?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learn every day" />
@@ -127,8 +144,12 @@
   </tr>
 </table>
 
-✨ Let's Connect
+---
+
+## ✨ Let's Connect
+
 I'm always open to interesting discussions, new ideas, and opportunities to collaborate and learn.
+
 <p>
   <a href="https://www.linkedin.com/in/nishant-kumar-272/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:nishantkumar27203@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
